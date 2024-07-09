@@ -13,9 +13,6 @@ import org.springframework.security.oauth2.core.ClientAuthenticationMethod;
 import org.springframework.security.oauth2.core.oidc.IdTokenClaimNames;
 import org.springframework.security.web.SecurityFilterChain;
 
-import java.util.HashMap;
-import java.util.Map;
-
 import static org.springframework.security.config.Customizer.withDefaults;
 
 @Configuration
